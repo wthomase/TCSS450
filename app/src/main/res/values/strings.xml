@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_text">Text</string>
+    <string name="button_image">Image</string>
+    <string name="button_web">Web</string>
+    <string name="button_toast">Toast</string>
+    <string name="button_dialog">Dialog</string>
+    <string name="title_activity_text">TextActivity</string>
+    <string name="about_me">My name is Thomas Woodward and I am graduating in the Fall.
+    I currently do not have a job lined up but plan to attend the careers fair. My favorite
+    class so far has been TCSS 360 with Professor Hughes as I had a chance to work in Unity.
+    </string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_web">WebActivity</string>
+</resources>
